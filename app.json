@@ -39,7 +39,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW* Runtime ⏳: _${runtime(process.uptime())}"
+  "value" : "*IM ALIVE NOW*"
     },
         
 "CALL_BLOCK" :{
