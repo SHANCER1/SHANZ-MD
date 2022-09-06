@@ -17,6 +17,29 @@
     "required" : true,
   "value" : "true"
     },
+                "INBOXBLOCK" :{
+    "description" : "IF YOU NEED TO ON THIS TYPE : true",
+    "required" : true,
+  "value" : "false"
+    },
+        
+                        "ANTI_BADWORD" :{
+    "description" : "IF YOU NEED TO ON THIS TYPE : true",
+    "required" : true,
+  "value" : "false"
+    },
+   
+                                "ANTIVIEWONCE" :{
+    "description" : "IF YOU NEED TO ON THIS TYPE : true",
+    "required" : true,
+  "value" : "false"
+    },
+       
+                                        "ANTILINK" :{
+    "description" : "IF YOU NEED TO ON THIS TYPE : true",
+    "required" : true,
+  "value" : "false"
+    },
         
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
