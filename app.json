@@ -23,7 +23,7 @@
   "value" : "false"
     },
         
-                        "ANTI_BADWORD" :{
+                        "ANTIBAD" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
