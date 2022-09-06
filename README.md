@@ -1,3 +1,7 @@
+# VIHANGA-BOT-MD
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+
     Vihanga MD V3...
 
     [©] New Features
@@ -15,10 +19,6 @@
    
    
    ```Thanks Fro using Vihanga MD```
-
-# VIHANGA-BOT-MD
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
