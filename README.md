@@ -14,7 +14,16 @@
      > add advanced yt down cmd. [.ytdl]
      > and more...
     
-   
+
+    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+
+     > Playstore Apk Downloder
+     > Playstore Apk searcher
+     > Auto Voice rp [On/Off]
+     > Auto msg rp [On/Off]
+     > Auto sticker rp [On/Off]
+     > Bot is not working some times fixed.
+     > and more...
    
    
    
