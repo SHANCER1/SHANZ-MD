@@ -11,11 +11,11 @@
     "required" : true,
   "value" : "Alive now"
     },
- "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
-    "required": true,
-    "value": "CitelVoid_"
- },
+"SESSION_ID" :{
+    "description" : "SESSION_ID https://astro-qr.astromdqr.repl.co",
+    "required" : true,
+  "value" : "CitelVoid_"
+},
 "ALIVE_LOGO" :{
     "description" : "alive logo",
     "required" : true,
