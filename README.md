@@ -6,7 +6,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://secktorbot.herokuapp.com/qr)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/vihangayt0/Astro-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vihangayt0/Astro-MD-V2)
 
 ---------------------------------   
 
