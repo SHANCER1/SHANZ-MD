@@ -1,11 +1,10 @@
-# ASTRO-MD
+# ASTRO-MD-V2 PUBLIC BETA
 
     
-  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
-
+  ### Qr එක scan කිරීමට පහත 'Run On Replit Button' එක click කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://secktorbot.herokuapp.com/qr)
 
-## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+## ඉන්පසුව කුඩා session code එකක් ලැබෙය්.පහත දම්පාට button එක එක click කර session_id කියල තියෙන තැනට ඔයාට ආපු කුඩා session code එක දමන්න .
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vihangayt0/Astro-MD-V2)
 
 ---------------------------------   
