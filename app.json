@@ -1,7 +1,7 @@
 {
   "name": "Astro-MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/edm-official/whatsapp-base",
+  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
@@ -12,7 +12,7 @@
   "value" : "Alive now"
     },
 "SESSION_ID" :{
-    "description" : "SESSION_ID https://astro-qr.astromdqr.repl.co",
+    "description" : "SESSION_ID http://Secktorbot.herokuapp.com/qr",
     "required" : true,
   "value" : "CitelVoid_"
 },
