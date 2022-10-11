@@ -14,7 +14,7 @@
 "SESSION_ID" :{
     "description" : "SESSION_ID http://Secktorbot.herokuapp.com/qr",
     "required" : true,
-  "value" : "CitelVoid_"
+  "value" : ""
 },
 "ALIVE_LOGO" :{
     "description" : "alive logo",
