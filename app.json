@@ -13,7 +13,9 @@
     },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
-  },
+ "required" : true,
+"value" : "CitelVoid_"
+ },
 "ALIVE_LOGO" :{
     "description" : "alive logo",
     "required" : true,
