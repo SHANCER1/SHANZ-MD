@@ -12,7 +12,7 @@
   "value" : "Alive now"
     },
 "SESSION_ID" :{
-    "description" : "SESSION_ID http://Secktorbot.herokuapp.com/qr",
+    "description" : "SESSION_ID http://Astro.sampandey001.repl.co",
     "required" : true,
   "value" : ""
 },
