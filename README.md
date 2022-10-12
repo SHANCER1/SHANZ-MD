@@ -3,7 +3,7 @@
    
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://secktorbot.herokuapp.com/qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](http://Astro.sampandey001.repl.co)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/vihangayt0/Astro-MD-V2)
