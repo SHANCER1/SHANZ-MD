@@ -74,12 +74,12 @@
                         "BUTTON" :{
     "description" : "alive button txt",
     "required" : true,
-  "value" : "Youtube"
+  "value" : "Whatsapp Group ✅"
 },
                             "BUTTONURL" :{
     "description" : "alive button url",
     "required" : true,
-  "value" : "youtube.com/hjwn7skv"
+  "value" : "https://chat.whatsapp.com/DmuruivGISz50xZLcIcfZS"
 }, 
                            "onlygroup" :{
     "description" : "onlygroup",
