@@ -11,11 +11,19 @@
     "required" : true,
   "value" : "Alive now"
     },
-"SESSION_ID" :{
-    "description" : "SESSION_ID http://Astro.sampandey001.repl.co",
+ "SESSION_ID": {
+    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+  },
+  "ANTI_LINK" :{
+    "description" : "Auto Delete Link",
     "required" : true,
-  "value" : ""
-},
+  "value" : "true"
+},  
+      "ANTI_SPAM" :{
+    "description" : "Auto Delete Spams",
+    "required" : true,
+  "value" : "true"
+},  
 "ALIVE_LOGO" :{
     "description" : "alive logo",
     "required" : true,
@@ -67,19 +75,19 @@
   "value" : "*📤Uploading your file...*"
 },
                         "CAPTION" :{
-    "description" : "yre caption",
+    "description" : " caption",
     "required" : true,
   "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
     "required" : true,
-  "value" : "Whatsapp Group ✅"
+  "value" : "Youtube"
 },
                             "BUTTONURL" :{
     "description" : "alive button url",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/DmuruivGISz50xZLcIcfZS"
+  "value" : "youtube.com/hjwn7skv"
 }, 
                            "onlygroup" :{
     "description" : "onlygroup",
