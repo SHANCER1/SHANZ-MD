@@ -52,6 +52,7 @@
 "jimp": "^0.16.1",
 "pastebin-js": "latest",
 "pino": "^7.0.5",
+"performance-now": "^2.1.0",
 "@bochilteam/scraper" : "^3.0.0" ,
 "qrcode-terminal": "^0.12.0",
 "node-webpmux": "^3.1.1",  
