@@ -12,7 +12,9 @@
   "value" : "Alive now"
     },
  "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session ",
+       "required" : true,
+  "value" : ""
   },
   "ANTI_LINK" :{
     "description" : "Auto Delete Link",
