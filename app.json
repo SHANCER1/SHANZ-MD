@@ -9,7 +9,7 @@
 "ALIVE_MSG" :{
     "description" : "alive message",
     "required" : true,
-  "value" : "Alive now"
+  "value" : "default"
     },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session ",
