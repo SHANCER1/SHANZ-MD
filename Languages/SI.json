@@ -1,0 +1,55 @@
+{
+	"__JSON__": true,
+	"AUTHOR": "SamPandey001",
+	"LANGUAGE": "English",
+	"LANGCODE": "en",
+	"STRINGS": {
+		"updater": {
+			"UPDATE": "*ඔබේ බොට් දැනටමත් නවතම Update ඇත*",
+			"NEW_UPDATE": "*බොට් සඳහා නව යාවත්කාලීනයක් තිබේ!*\n\n*වෙනස්කම්:*\n",
+			"UPDATED_LOCAL": "*සාර්ථකව යාවත්කාලීන කරන ලදී!*"
+		},
+		"global": {
+			"botName": "බල ගැන්වුයේ Astro-MD",
+			"body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+			"greet2" : "Bro",
+			"pic1": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic2": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic3": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic4": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic5": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic6": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			"pic7": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+			 "greet" : "Bro",
+		   "dotbody" : "මම පණපිටින් ඉන්නේ.",
+			"promote": "පරිපාලක ලබා දෙයි",
+			"pmallow": "*Hii,මෙය Astro Bot*\n*මගේ මාස්ටර්ගේ සහායකයෙකි.*\nමගේ ස්වාමියා දැන් කාර්යබහුලයි.\nකරුණාකර ඔබේ පණිවිඩය තබන්න.\n\n_ඔබේ පණිවිඩය ගැන මම ඔහුට ඉක්මනින් දන්වන්නම්......_",
+			"pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Astro",
+			"pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by ASTRO*",
+			"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by Secktor", 
+			"revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Astro_",
+			"demote": "පරිපාලක ඉවත් කරන ලදී",
+			"antlink": "Link Detected.\n*Good Bye*",
+			"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Astro*",
+			"mention": "කරුණාකර ඕනෑම පරිශීලකයෙකු Mention කරන්න",
+			"title": "Astro",
+			"footer": "Astro",
+			"by": "Made by: *VihangaYT*",
+			"chat_desc": "*විකල්ප ඇත* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+			"success": "Done ✓",
+			"dot": "ඔබ අදහස් කළේ *උදව්ද?*",
+			"couple_male": "*මට තනියම මැරෙන්න ඕන නෑ, මට ඕන ගෑණු කෙනෙක්*",
+			"couple_female": "*මට තනියම මැරෙන්න ඕන නෑ, මට පිරිමි කෙනෙක් ඕන*",
+			"admin": "*මෙය group එකේ admins ලා සදහා පමණය් ⚠️!",
+			"botAdmin": "*Bot ට admin අවශ්‍යය්.❗*",
+			"owner": "*මෙම command එක මගේ owner සදහා පමණය් ⚠️*",
+			"group": "*මෙය group සදහා පමණය් ❗*",
+			"private": "*මෙය මගේ owner ට පමණය් වැඩ කරන්නෙ ⚠️*",
+			"bot": "*මෙය bot number එකට පමණය් වැඩ කරන්නෙ ⚠️*",
+			"wait": "*ටිකක් ඉන්න ✅*" 
+		},
+		"error": {
+			"text": "*Error එකක් ලැබී ඇත පසුව උතසහ කරන්න*"
+		}
+	}
+  }

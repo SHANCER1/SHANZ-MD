@@ -1,1 +1,56 @@
-const _0x29a9c5=_0x53d9;(function(_0x165659,_0xe583cd){const _0x521b66=_0x53d9,_0x597da5=_0x165659();while(!![]){try{const _0x57233f=-parseInt(_0x521b66(0x1ca))/0x1+-parseInt(_0x521b66(0x1b4))/0x2+parseInt(_0x521b66(0x1dd))/0x3*(-parseInt(_0x521b66(0x1d6))/0x4)+parseInt(_0x521b66(0x1de))/0x5*(parseInt(_0x521b66(0x1b6))/0x6)+-parseInt(_0x521b66(0x1cb))/0x7+parseInt(_0x521b66(0x1d9))/0x8+parseInt(_0x521b66(0x1b5))/0x9;if(_0x57233f===_0xe583cd)break;else _0x597da5['push'](_0x597da5['shift']());}catch(_0xe7391a){_0x597da5['push'](_0x597da5['shift']());}}}(_0xabbc,0x23e0f));const {Sequelize}=require(_0x29a9c5(0x1c4)),fs=require('fs');if(fs[_0x29a9c5(0x1b9)](_0x29a9c5(0x1b8)))require(_0x29a9c5(0x1db))['config']({'path':_0x29a9c5(0x1b2)});function _0x53d9(_0x3cb0e2,_0x565cff){const _0xabbcd4=_0xabbc();return _0x53d9=function(_0x53d91f,_0x58dd82){_0x53d91f=_0x53d91f-0x1b2;let _0x5073bc=_0xabbcd4[_0x53d91f];return _0x5073bc;},_0x53d9(_0x3cb0e2,_0x565cff);}function convertToBool(_0x4b8b67,_0x5a5cfb=_0x29a9c5(0x1d7)){return _0x4b8b67===_0x5a5cfb?!![]:![];}module[_0x29a9c5(0x1d0)]={'ALIVE_MSG':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1da)]===undefined?'I\x20Am\x20Alive\x20Now':process[_0x29a9c5(0x1c9)]['ALIVE_MSG'],'ANTI_SPAM':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1bc)]===undefined?'true':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1bc)],'sessionName':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1d3)]||_0x29a9c5(0x1d1),'ANTI_LINK':process['env']['ANTI_LINK']||_0x29a9c5(0x1d7),'ALIVE_LOGO':process[_0x29a9c5(0x1c9)]['ALIVE_LOGO']===undefined?_0x29a9c5(0x1dc):process[_0x29a9c5(0x1c9)]['ALIVE_LOGO'],'FOOTER':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1cf)]===undefined?_0x29a9c5(0x1bd):process[_0x29a9c5(0x1c9)]['FOOTER'],'BUTTON':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1c5)]===undefined?_0x29a9c5(0x1bb):process[_0x29a9c5(0x1c9)]['BUTTON'],'BUTTONURL':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1e1)]===undefined?_0x29a9c5(0x1c7):process['env'][_0x29a9c5(0x1bf)],'onlygroup':process['env'][_0x29a9c5(0x1ce)]===undefined?_0x29a9c5(0x1d4):process[_0x29a9c5(0x1c9)]['onlygroup'],'OWNER_NAME':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1b7)]===undefined?_0x29a9c5(0x1d2):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1b7)],'OWNER_NUMBER':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1c8)]===undefined?_0x29a9c5(0x1d8):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1c8)],'SONG_DOWN':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1d5)]===undefined?_0x29a9c5(0x1df):process['env']['SONG_DOWN'],'SONG_UP':process['env'][_0x29a9c5(0x1c6)]===undefined?_0x29a9c5(0x1c1):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1c6)],'VIDEO_DOWN':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1b3)]===undefined?_0x29a9c5(0x1e2):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1b3)],'VIDEO_UP':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1c0)]===undefined?_0x29a9c5(0x1c3):process['env'][_0x29a9c5(0x1c0)],'CAPTION':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1cc)]===undefined?_0x29a9c5(0x1cd):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1cc)],'FILE_DOWN':process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1ba)]===undefined?_0x29a9c5(0x1c2):process['env'][_0x29a9c5(0x1ba)],'FILE_UP':process[_0x29a9c5(0x1c9)]['FILE_UP']===undefined?_0x29a9c5(0x1be):process[_0x29a9c5(0x1c9)][_0x29a9c5(0x1e0)]};function _0xabbc(){const _0x3a0884=['1459353gWtpfF','CAPTION','Generated\x20By\x20Astro-MD','onlygroup','FOOTER','exports','PUT-HERE','VihangaYT','SESSION_ID','false','SONG_DOWN','307648XoSYTu','true','99999999','12904AQHbet','ALIVE_MSG','dotenv','https://i.ibb.co/QJNkFcj/NISHI-1-removebg-preview.png','6hHGsmQ','827395itKwdG','Downloading\x20Your\x20Song...','FILE_UP','BUTTON_URL','Downloading\x20Your\x20Video...','./config.env','VIDEO_DOWN','556334qiOyMX','7968402nbWSbu','6KWkYRy','OWNER_NAME','config.env','existsSync','FILE_DOWN','Youtube','ANTI_SPAM','Astro-MD','Uploading\x20Your\x20File...','BUTTONURL','VIDEO_UP','Uploading\x20Your\x20Song...','Downloading\x20Your\x20File...','Uploading\x20Your\x20Video...','sequelize','BUTTON','SONG_UP','youtube.com/hjwn7skv','OWNER_NUMBER','env','265041HkqEVv'];_0xabbc=function(){return _0x3a0884;};return _0xabbc();}
+const fs = require('fs-extra')
+if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/config.env' })
+
+
+//═══════[Required Variables]════════\\
+global.owner = process.env.OWNER_NUMBER.split(",")
+global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
+global.port= process.env.PORT || 5000
+global.email = 'vihangaytbisnuss@gmail.com'
+global.github = 'https://github.com/vihangayt0/Astro-MD-V5'
+global.location = 'Sri Lanka'
+global.gurl = 'https://instagram.com/' 
+global.sudo = process.env.SUDO || '9400000000'
+global.devs = '9476289851';
+global.website = 'https://github.com/vihangayt0/Astro-MD-V5'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg'
+module.exports = {
+  botname: process.env.BOT_NAME || 'Astro-MD',
+  footer: process.env.FOOTER || 'Astro-MD',
+  ANTI_SPAM: process.env.ANTI_SPAM || 'true',
+  ibmg: process.env.INBOX_BL_MSG || '*inbox not allowed*',
+  ibmgL: process.env.GROUP_ONLY || 'false',
+  grlink: process.env.GroupLink || '',
+  ownername:process.env.OWNER_NAME || 'Vihangaashinshana11',
+  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  author: process.env.PACK_INFO.split(";")[0] || 'author', 
+  packname: process.env.PACK_INFO.split(";")[1] || 'Name',
+  autoreaction: process.env.AUTO_REACTION || 'off',
+  antibadword : process.env.ANTI_BAD_WORD || 'nobadwordokey',
+  alwaysonline: process.env.ALWAYS_ONLINE || 'false',
+  antifake : process.env.FAKE_COUNTRY_CODE || '',
+  readmessage: process.env.READ_MESSAGE || false,
+  HANDLERS: process.env.PREFIX || ['.'],
+  nsfw_detect_ai : process.env.NSFW_DETECTION_AI || 'false',
+  pmpermit: process.env.PMPERMIT || "false",
+  mongodb_url: process.env.MONGODB_URI || "Enter-Mongo-URI-HERE",
+  warncount : process.env.WARN_COUNT || 3,
+  disablepm: process.env.DISABLE_PM || "flase",
+  levelupmessage: process.env.LEVEL_UP_MESSAGE || 'false',
+  antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
+  antilinkaction: process.env.ANTILINK_ACTION || 'remove',
+  BRANCH: 'main',
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
+  VERSION: process.env.VERSION === undefined ? 'v5.0' : process.env.VERSION,
+  LANG: process.env.THEME|| 'SI',
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+};
+
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(`Update'${__filename}'`)
+    delete require.cache[file]
+	require(file)
+})
