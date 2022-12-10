@@ -1,8 +1,12 @@
-1.First Scan Qr From Here
-2.After That Create Mngo DB Uri From Here [Gow To Create Mongo DB Uri]
-3.After That Create Railway Or Koyeb Account
-4.Now You Can Deploy Bot From Koyeb Or Railway
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vihangayt0/Astro-Md-V5&branch=main&env%5BFOOTER%5D&env%5BANTI_SPAM%5D&env%5BANTI_BAD%5D&env%5BINBOX_BL_MSG%5D&env%5BGROUP_ONLY%5D&env%5BSESSION_ID%5D&env%5BOWNER_NUMBER%5D&env%5BMONGODB_URI&env%5BGroupLink%5D&&env%5BOWNER_NAME%5D&env%5BPREFIX%5D=.&env%5BTHUMB_IMAGE%5D=https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg&env%5Bemail%5D=vihangaytbisnuss@gmail.com&env%5Bglobal_url%5D=instagram.com&env%5BFAKE_COUNTRY_CODE%5D=92&env%5BREAD_MESSAGE%5D=false&env%5BDISABLE_PM%5D=false&env%5BWORKTYPE%5D=public&env%5BTHEME%5D=EN&env%5BPACK_INFO%5D=Astro;MD&name=Astro-Md&env%5BKOYEB_NAME%5D=Vihanga-Yt&env%5BPORT%5D=8000&ports=8000;http;/)
+## Deployment Methods
+---
+1. ***Get [SESSION-ID](https:) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.  ***Get a Mongodb uri from [Mongodb](https://account.mongodb.com/).***
+3. ***[Deploy on Koyeb](https://)***
+4. SUPPORT GROUP: <a href="https://"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-[![Deploy on Railway](https://railway.app/button.svg)])
+5. Star ⭐ repo if you like Astro.
+### Thanks To
+
+###### - [SamPandey001](https://github.com/SamPandey001/Secktor-Md) for Base

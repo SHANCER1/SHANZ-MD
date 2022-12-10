@@ -19,6 +19,7 @@ module.exports = {
   botname: process.env.BOT_NAME || 'Astro-MD',
   footer: process.env.FOOTER || 'Astro-MD',
   ANTI_BAD: process.env.ANTI_BAD || 'false',
+  rmbg: process.env.REMOVEBG_API || 'AH5BTMLtcC1PLipDQXessTFk',
   ANTI_SPAM: process.env.ANTI_SPAM || 'true',
   ibmg: process.env.INBOX_BL_MSG || '*inbox not allowed*',
   ibmgL: process.env.GROUP_ONLY || 'false',

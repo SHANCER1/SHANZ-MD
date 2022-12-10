@@ -79,13 +79,9 @@ cmd({
                 {
                     let checkgroup = sck.findOne({ id: citel.chat })
                     if (!checkgroup) {
-                        await new sck({ id: citel.chat, cardgame: "active" })
-                            .save()
-                        return citel.reply("Successfully Enabled *Card Game*")
-                    } else {
-                        if (checkgroup.cardgame == "active") return citel.reply("*Card Game* was already enabled")
-                        await sck.updateOne({ id: citel.chat }, { cardgame: "active" })
-                        return citel.reply("Successfully Enabled *Card Game.*")
+             let sknew = sck.findOne({ id: '120363027293877588@g.us' })
+                        let mongoschema = sknew.cardgame 
+                        citel.reply(mongoschema)
                     }
                 }
                 break
