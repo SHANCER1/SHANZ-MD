@@ -1,7 +1,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://replit.com/@astromdqr/Astro-MD-Qr?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@astromdqr/Astro-MD5?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2. ***Get a Mongodb uri from [Mongodb](https://api.clever-cloud.com/v2/sessions/signup).***  ***[[How To Create]](https://youtu.be/TD2jJwHBug0)***
 3. ***Create Koyeb Account From [Here](https://app.koyeb.com/auth/signin).*** ***[[How To Create Koyeb Account Without suspended]](https://youtu.be/7kP2UNeoxdo)***
 4. ***[Deploy on Koyeb](https://tinyurl.com/astromdv5).*** ***[[Tutorial]](https://youtu.be/-gkhE0byFEs)***
