@@ -1,1 +1,36 @@
-const _0x286360=_0xea26;function _0xea26(_0x192b83,_0x706133){const _0x1808db=_0x1808();return _0xea26=function(_0xea26ed,_0x21a6c5){_0xea26ed=_0xea26ed-0xb8;let _0xeecc2=_0x1808db[_0xea26ed];return _0xeecc2;},_0xea26(_0x192b83,_0x706133);}(function(_0x2e90cb,_0x18a800){const _0x1e51ab=_0xea26,_0x4924c3=_0x2e90cb();while(!![]){try{const _0x377bbe=parseInt(_0x1e51ab(0xc2))/0x1*(parseInt(_0x1e51ab(0xc5))/0x2)+-parseInt(_0x1e51ab(0xb9))/0x3+parseInt(_0x1e51ab(0xc0))/0x4+-parseInt(_0x1e51ab(0xbd))/0x5+parseInt(_0x1e51ab(0xcc))/0x6*(-parseInt(_0x1e51ab(0xb8))/0x7)+parseInt(_0x1e51ab(0xca))/0x8+parseInt(_0x1e51ab(0xba))/0x9;if(_0x377bbe===_0x18a800)break;else _0x4924c3['push'](_0x4924c3['shift']());}catch(_0x1b6eb2){_0x4924c3['push'](_0x4924c3['shift']());}}}(_0x1808,0x5fafd));const DB=require(_0x286360(0xc6)),{execSync}=require(_0x286360(0xbb)),{tlang,Config,prefix,cmd}=require(_0x286360(0xbe));cmd({'pattern':_0x286360(0xbf),'desc':_0x286360(0xc7),'category':_0x286360(0xc3),'filename':__filename},async(_0x8c10d8,_0x129789,_0x101eee,{isCreator:_0x54ee8e})=>{const _0x38acc5=_0x286360;if(!_0x54ee8e)return _0x129789[_0x38acc5(0xcb)](_0x38acc5(0xc8));let _0x428adc=await DB[_0x38acc5(0xc4)]();if(_0x428adc['total']===0x0)_0x129789[_0x38acc5(0xcb)]('Hey\x20'+_0x129789['pushName']+'.\x20You\x20have\x20latest\x20version\x20installed.');else{let _0x1b7f08=await DB[_0x38acc5(0xcd)](),_0x62f5d6=[{'buttonId':prefix+'updatenow','buttonText':{'displayText':_0x38acc5(0xc9)},'type':0x1}],_0x5a8021={'text':_0x1b7f08,'footer':_0x38acc5(0xbc),'headerType':0x4,'buttons':_0x62f5d6};return await _0x8c10d8[_0x38acc5(0xc1)](_0x129789['chat'],_0x5a8021);}});function _0x1808(){const _0xb7f34b=['sendMessage','489FYdFzN','misc','syncgit','2252xgBjWo','../lib/scraper','Shows\x20repo\x27s\x20refreshed\x20commits.','This\x20command\x20is\x20only\x20for\x20my\x20owner','UPDATE','1997192ctkiKJ','reply','518436SoRgOY','sync','49ObhUkz','1418085AxDqFV','5811372bveFjy','child_process','UPDATER','3216935VLEUHm','../lib','update','2667544IcDBfr'];_0x1808=function(){return _0xb7f34b;};return _0x1808();}
+const DB = require('../lib/scraper')
+const { execSync } = require('child_process')
+const { tlang, Config, prefix,cmd } = require('../lib')
+    //---------------------------------------------------------------------------
+cmd({
+            pattern: "update",
+            desc: "Shows repo\'s refreshed commits.",
+            category: "misc",
+            filename: __filename
+        },
+        async(Void, citel, text,{ isCreator }) => {
+            if (!isCreator) return citel.reply('This command is only for my owner')
+            let commits = await DB.syncgit()
+            if (commits.total === 0) {
+                citel.reply(`Hey ${citel.pushName}. You have latest version installed.`)
+            } else {
+                let update = await DB.sync()
+                  let button = [{
+                    buttonId: `${prefix}updatenow`,
+                    buttonText: {
+                        displayText: 'UPDATE'
+                    },
+                    type: 1
+                }]
+                  let buttonMessaged = {
+                    text: update,
+                    footer: 'UPDATER',
+                    headerType: 4,
+                    buttons: button
+                };
+                return await Void.sendMessage(citel.chat, buttonMessaged);
+            }
+
+        }
+    )
+  
