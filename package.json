@@ -16,6 +16,7 @@
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "^1.0.0",
                        "axios": "^0.24.0",
+                 "google-play-scraper": "^9.1.1",
                 "tiktok-down": "^1.1.8",
                        "@blackamda/song_video_dl": "latest",
                        "cheerio": "^1.0.0-rc.10",
