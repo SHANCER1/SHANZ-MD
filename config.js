@@ -42,7 +42,7 @@ module.exports = {
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
   BRANCH: 'main',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
-  VERSION: process.env.VERSION === undefined ? 'v5.0' : process.env.VERSION,
+  VERSION: require('./package.json').version,
   LANG: process.env.THEME|| 'SI',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
